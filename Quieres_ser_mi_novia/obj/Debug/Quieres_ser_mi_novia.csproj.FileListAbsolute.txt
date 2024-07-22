@@ -1,0 +1,10 @@
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\bin\Debug\Quieres_ser_mi_novia.exe.config
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\bin\Debug\Quieres_ser_mi_novia.exe
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\bin\Debug\Quieres_ser_mi_novia.pdb
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\obj\Debug\Quieres_ser_mi_novia.csproj.AssemblyReference.cache
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\obj\Debug\Quieres_ser_mi_novia.Form1.resources
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\obj\Debug\Quieres_ser_mi_novia.Properties.Resources.resources
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\obj\Debug\Quieres_ser_mi_novia.csproj.GenerateResource.cache
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\obj\Debug\Quieres_ser_mi_novia.csproj.CoreCompileInputs.cache
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\obj\Debug\Quieres_ser_mi_novia.exe
+C:\Users\Danife-Developer\source\repos\Quieres_ser_mi_novia\Quieres_ser_mi_novia\obj\Debug\Quieres_ser_mi_novia.pdb
